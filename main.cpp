@@ -4,7 +4,7 @@
 
 using namespace std;
 
-//Ä¸½¶È­, Àº´ÐÈ­, Encapsulelation
+//Ä¸½¶È­, Àº´ÐÈ­, Encapsulelation.
 
 class AActor
 {
